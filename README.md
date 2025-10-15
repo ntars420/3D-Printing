@@ -2,6 +2,7 @@
 1. Firstly, we processed the 3D model obtained through scanning using Autodesk meshmixer.
 
 2. Then we import the obtained 3D model file into the 3D printer.
+<img width="1911" height="1243" alt="image" src="https://github.com/user-attachments/assets/4018cb1e-0002-4a54-9033-6e20a29ab035" />
 
 3. During the use of the printer, we encountered a problem: the printed material could not adhere well to the base plate, resulting in printing failure.
 
